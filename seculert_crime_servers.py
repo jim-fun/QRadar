@@ -1,5 +1,7 @@
 #!/usr/bin/python
 # J. Meyer - 5/21/2015
+# J. Meyer - 10/29/2018
+# Description: Seculert import into reference lists
 
 #imports
 import csv, urllib, urllib2, json

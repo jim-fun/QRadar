@@ -1,5 +1,8 @@
 #!/usr/bin/python
 # 5/21/2015 - J. Meyer
+# 10/29/2018 - J. Meyer
+# Import Critical Stack indicators into QRadar reference list
+
 import csv, urllib, urllib2, json
 from IPy import IP
 
